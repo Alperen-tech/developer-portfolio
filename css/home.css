@@ -57,7 +57,7 @@
 
 @media (min-width: 768px) {
   .hero {
-    padding: 160px 0;
+    padding: 180px 0 200px;
   }
 
   .hero-content {
@@ -71,11 +71,12 @@
   }
 
   .hero-text h1 {
-    font-size: 58px;
+    font-size: 56px;
+    line-height: 1.25;
   }
 
   .hero-image {
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    height: 320px;
   }
 }
