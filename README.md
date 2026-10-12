@@ -4,7 +4,7 @@ Det här är min portfolio som jag har byggt med HTML och CSS utifrån en färdi
 
 Publicerad sida 
 
-Länk till sidan: [https://github.com/Alperen-tech/developer-portfolio/tree/main](https://alperen-tech.github.io/developer-portfolio/)
+Länk till sidan: https://alperen-tech.github.io/developer-portfolio/
 
 Reflektion 
 
