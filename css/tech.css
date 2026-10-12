@@ -24,27 +24,14 @@
   text-align: center;
 }
 
-.tech-icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.tech-item i {
+  font-size: 60px;
+}
 
-  width: 90px;
-  height: 90px;
-
-  margin: 0 auto;
-
-  border-radius: 20px;
-
-  background: linear-gradient(
-    135deg,
-    var(--blue-color),
-    var(--purple-color)
-  );
-
-  color: white;
-  font-size: 18px;
-  font-weight: 700;
+@media (min-width: 768px) {
+  .tech-item i {
+    font-size: 75px;
+  }
 }
 
 .tech-item p {
